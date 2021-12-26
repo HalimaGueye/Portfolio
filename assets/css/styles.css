@@ -775,11 +775,13 @@ progress {
 /*==================== PROJECT IN MIND ====================*/
 .project {
   text-align: center;
+  
 }
 
 .project__bg {
   background-color: var(--first-color-second);
   padding-top: 3rem;
+  padding-right: 2.4rem;
 }
 
 .project__title {
@@ -805,7 +807,7 @@ progress {
 /*==================== CONTACT ME ====================*/
 .contact__container{
   row-gap: 3rem;
-  grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
 }
 
 .contact__information{
@@ -1197,7 +1199,7 @@ color: var(--title-color);
   .project__container{
     background-color: var(--first-color-second);
     border-radius: 1rem;
-    padding: 3rem 2.5rem 0;
+    padding: 3rem 3rem 0;
     grid-template-columns: 1fr max-content;
     column-gap: 3rem;
   }
