@@ -182,7 +182,7 @@ header {
 /*==================== NAV ====================*/
 .nav {
   max-width: 968px;
-  height: var(--header-height);
+  height: 3.5rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -216,7 +216,7 @@ header {
     bottom: -100%;
     left: 0;
     width: 100%;
-    background-color: var(--body-color);
+    background-color: var(--body-color-);
     padding: 2rem 1.5rem 4rem;
     box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
     border-radius: 1.5rem 1.5rem 0 0;
@@ -871,6 +871,7 @@ color: var(--title-color);
 /*==================== FOOTER ====================*/
 .footer{
   padding-top: 2rem;
+  padding-bottom: 2rem
 }
 
 .footer__container{
@@ -979,6 +980,7 @@ color: var(--title-color);
 
   .nav__menu{
     padding: 2rem .25rem 4rem;
+    
   }
 
   .nav__list{
