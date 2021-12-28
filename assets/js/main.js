@@ -173,3 +173,20 @@ themeButton.addEventListener('click', () => {
     localStorage.setItem('selected-theme', getCurrentTheme())
     localStorage.setItem('selected-icon', getCurrentIcon())
 })
+
+/*==================== LANGUAGE ====================*/ 
+
+function changeImage() {
+
+    if (document.getElementById("lng").src == "./assets/img/drapeau-anglais.png") 
+    {
+        document.getElementById("lng").src = "https://img.icons8.com/color/48/000000/france-circular.png";
+    }
+    else 
+    {
+        document.getElementById("lng").src = "./assets/img/drapeau-anglais.png";
+    }
+}
+//'https://img.icons8.com/color/48/000000/france-circular.png' ? 'add' : 'remove'](iconTheme)
+
+//./assets/img/drapeau-anglais.png

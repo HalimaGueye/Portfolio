@@ -938,6 +938,7 @@ color: var(--title-color);
   border-radius: .4rem;
   z-index: var(--z-tooltip);
   transition: .4s;
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7); 
 }
 
 .scrollup:hover{
