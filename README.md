@@ -1,5 +1,7 @@
-# Responsive Portfolio Website 
-Responsive Portfolio Website Using Html, Css and JavaScript, With a beautiful user interface.
-thanks to Bedimcode tutorial ! (https://www.youtube.com/c/Bedimcode)
+# Responsive Portfolio Website Alexa
+## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
+### Responsive Portfolio Website Alexa
+Responsive Portfolio Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer.
+Don't forget to join the channel for more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-## [Watch it on youtube] the entire tutorial (https://youtu.be/27JtRAI3QO8)
+![Resume cv](/preview.png)
